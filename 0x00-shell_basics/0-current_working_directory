@@ -1,2 +1,2 @@
-#!/binBash
+#!/bin/bash
 pwd
